@@ -7,6 +7,7 @@ Data Preprocessing:
    * Gathering data from kaggle
    * Cleaning Null Value
    * Removing Duplicates
+   * Visualizing the data
   
 ## Checking outliers in continuous variables
 ![image](https://user-images.githubusercontent.com/85886921/166436587-f8f6c766-72e6-4137-a270-2d5a3d2842c9.png)
