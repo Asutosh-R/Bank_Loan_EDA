@@ -1,4 +1,4 @@
-# Loan-Case-Study
+# Bank_Loan_EDA
 
 Defaulter- The person who fails to fulfill the requirement for loan
 Non-Defaulters- The person who fulfills all the requirment for loan
